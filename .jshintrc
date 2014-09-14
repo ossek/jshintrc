@@ -87,5 +87,7 @@
     "wsh"           : false,    // Windows Scripting Host
     "yui"           : false,    // Yahoo User Interface
 
+    //this seems to be necessary for correct interpretation by syntastic, but
+    //globals actually only work from the "predef" property
     "globals" :{}
 }
