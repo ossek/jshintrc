@@ -1,0 +1,1 @@
+ - to be copied into ~/.jshintrc, or wherever the jshintrc file is being read from
